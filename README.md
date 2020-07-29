@@ -6,3 +6,5 @@ utils.py 进行数据的保存到库只是百度热词部分
 app.py     进行数据的展示利用了flask环境
 static     静态文件
 templates  html
+数据库利用的是mysql
+
